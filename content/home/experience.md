@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Computer Vision Algorithm Intern"
   company = "PixelShift"
-  company_url = "http://www.pixelshift.ai/"
+  company_url = "https://en.pixelshift.ai/"
   location = "Shanghai, China"
   date_start = "2020-05-20"
-  date_end = ""
-  description = """Focus on the application and deployment of generative models.
+  date_end = "2020-09-11"
+  description = """Focus on the XR application taking advantage of deep learning and graphics.
   """
 
 [[experience]]
