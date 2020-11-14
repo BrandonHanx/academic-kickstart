@@ -67,6 +67,6 @@ subtitle = "Journal & Conference"
  css_class = ""
 +++
 
-{{% callout note %}}
+{{% alert note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /alert %}}
