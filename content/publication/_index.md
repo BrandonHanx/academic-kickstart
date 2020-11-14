@@ -8,7 +8,7 @@ title: Publications
 #   4 = Citation
 view: 1
 
-# Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
