@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Computer Vision Algorithm Intern"
-  company = "PixelShift"
+  company = "PixelShift.AI"
   company_url = "https://en.pixelshift.ai/"
   location = "Shanghai, China"
   date_start = "2020-05-20"

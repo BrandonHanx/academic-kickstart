@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Zhejiang University
+- name: University of Surrey
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,10 @@ interests:
 
 education:
   courses:
-  - course: BSc in Information Engineering
+  - course: Ph.D. Student in Computer Vision
+    institution: Centre for Vision, Speech and Signal Processing, University of Surrey
+    year: 2025 (Expected)
+  - course: B.Eng in Information Engineering
     institution: College of Information Science & Electronic Engineering, Zhejiang University
     year: 2020
 
@@ -59,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Xiao Han is currently working at the [PixelShift](http://www.pixelshift.ai/) as a computer vision algorithm intern. He just obtained his bachelor's degree at the [College of Information Science & Electronic Engineering (ISEE)](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University (ZJU)](http://www.zju.edu.cn/english/) in this summer. Previously, he was a visiting student of [University of Michigan (UMich)](https://umich.edu/) and a research intern of [Westlake Institute for Advanced Study (WIAS)](https://www.wias.org.cn/english/).
+Xiao Han will pursue his Ph.D. degree at [University of Surrey](https://www.surrey.ac.uk/) under the supervision of [Prof. Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html). He just obtained his bachelor's degree at [Zhejiang University](http://www.zju.edu.cn/english/) in this summer. He has several academic experiences at [University of Michigan](https://umich.edu/), [Westlake University](https://www.wias.org.cn/english/) and [Fudan University](https://www.fudan.edu.cn/en/).

@@ -13,10 +13,7 @@ subtitle = ""
 
 
 +++
-
-- 20/05/2020: Joined [PixelShift](http://www.pixelshift.ai/) as a computer vision algorithm intern.
-- 13/05/2020: Got the offer from the [Univeristy of Edinburgh](https://www.ed.ac.uk/) on AI MSc program.
+- 11/12/2020: Become a visiting student at Fudan University.
+- 20/05/2020: Join [PixelShift.AI](http://www.pixelshift.ai/) as a computer vision algorithm intern.
 - 13/03/2020: One first-author paper accepted by  [InfoMat](https://onlinelibrary.wiley.com/journal/25673165).
-- 12/03/2020: Got the offer from the [Univeristy of Surrey](https://www.surrey.ac.uk/) for VSSP Ph.D..
-- 11/02/2020: Got the offer from the [Univeristy of Southampton](https://www.southampton.ac.uk/) on AI MSc program.
-
+- 12/03/2020: Get the offer from the [Univeristy of Surrey](https://www.surrey.ac.uk/) for VSSP Ph.D..
